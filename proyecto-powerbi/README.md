@@ -1,19 +1,21 @@
-# 📊 Proyecto Power BI: Dashboard Interactivo
+## 📊 Proyectos
 
-## 🧠 Descripción
-Este proyecto consiste en la construcción de un dashboard interactivo utilizando Power BI, con el objetivo de analizar datos y facilitar la toma de decisiones.
+### 📈 Dashboard Interactivo en Power BI
 
-## 🔧 Herramientas utilizadas
+Proyecto de análisis y visualización de datos desarrollado en Power BI, enfocado en la construcción de un dashboard interactivo que facilita la interpretación de la información y apoya la toma de decisiones.
+
+🔧 **Herramientas utilizadas:**
 - Power BI
 - Modelado de datos
 - Visualización de datos
-  
-## 📈 Lo que se realizó
-- Creación de gráficos interactivos
-- Uso de segmentadores
-- Construcción de indicadores (KPIs)
-- Organización visual del dashboard
 
-## 📂 Archivo
-Puedes descargar el archivo aquí:
-👉 (haz clic en el archivo .pbix en esta carpeta)
+📊 **Principales características:**
+- Uso de gráficos interactivos
+- Implementación de segmentadores (filtros)
+- Creación de indicadores (KPIs)
+- Diseño claro y organizado
+
+📁 Incluye archivo descargable en formato Power BI (.pbix)
+
+🔗 **Ver proyecto en GitHub:**
+👉 [Acceder al proyecto](https://github.com/biarly/portafolio-biarly/tree/main/proyecto-powerbi)
