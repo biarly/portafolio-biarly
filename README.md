@@ -22,6 +22,7 @@ Soy enfermera titulada de la Universidad Andrés Bello (2022), con formación en
 Proyecto de análisis y visualización de datos utilizando Power BI.
 
 🔗 [Ver proyecto en GitHub](https://github.com/biarly/portafolio-biarly/tree/main/proyecto-powerbi)
+📁 Incluye archivo descargable en Power BI (.pbix)
 
 ## 📫 Puedes contactarme a través de:
 - Email: biarly.chpz@gmail.com
