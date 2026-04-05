@@ -21,9 +21,8 @@ Soy enfermera titulada de la Universidad Andrés Bello (2022), con formación en
 ### Dashboard en Power BI
 Proyecto de análisis y visualización de datos utilizando Power BI.
 
-🔗 Ver proyecto:
-https://github.com/biarly/portafolio-biarly/tree/main/proyecto-powerbi
+🔗 [Ver proyecto en GitHub](https://github.com/biarly/portafolio-biarly/tree/main/proyecto-powerbi)
 
-📫 Puedes contactarme a través de:
+## 📫 Puedes contactarme a través de:
 - Email: biarly.chpz@gmail.com
 - LinkedIn: www.linkedin.com/in/biarly-chaparro-perez
