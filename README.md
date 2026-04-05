@@ -12,7 +12,7 @@ Soy enfermera titulada de la Universidad Andrés Bello (2022), con formación en
 - Administración y recepción.
 - Ventas de tangibles e intangibles.
 
-📊 Actualmente me encuentro en proceso de formación en análisis de datos, desarrollando habilidades en herramientas como SQL y Power BI.
+📊 También, actualmente me encuentro en proceso de formación en análisis de datos, desarrollando habilidades en herramientas como SQL y Power BI.
 
 ✨ Me interesa integrar el área de la salud y estética con el análisis de datos para mejorar la toma de decisiones y la calidad de atención.
 
