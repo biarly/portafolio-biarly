@@ -1,4 +1,4 @@
-👋 Hola, soy Biarly Chaparro
+## 👋 Hola, soy Biarly Chaparro
 
 Soy enfermera titulada de la Universidad Andrés Bello (2022), con formación en IAAS (2024) y manejo avanzado de heridas y úlceras complejas (2024).
 
