@@ -7,7 +7,7 @@ Este proyecto consiste en la construcción de un dashboard interactivo utilizand
 - Power BI
 - Modelado de datos
 - Visualización de datos
-
+  
 ## 📈 Lo que se realizó
 - Creación de gráficos interactivos
 - Uso de segmentadores
