@@ -17,5 +17,5 @@ Proyecto de análisis y visualización de datos desarrollado en Power BI, enfoca
 
 📁 Incluye archivo descargable en formato Power BI (.pbix)
 
-🔗 **Ver proyecto en GitHub:**
-👉 [Acceder al proyecto](https://github.com/biarly/portafolio-biarly/tree/main/proyecto-powerbi)
+🔗 **Descargar archivo Power BI:**  
+👉 [Descargar dashboard](./dashboard-powerbi.pbix)
